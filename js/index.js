@@ -1,4 +1,4 @@
-let myArr = new Array("Full Stack Developer", "Beat Maker", "Creative", "Visionary", "Student", "Basketball Player", "Vinyl Collector", "Aminmal Person");
+let myArr = new Array("Full Stack Developer", "Beat Maker", "Creative", "Visionary", "Student", "Basketball Player", "Vinyl Collector");
     loop();
 
     function loop() 
