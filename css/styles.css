@@ -45,5 +45,6 @@ body {
 .jumbotron {
     background-color: white;
     position: relative;
-    top: 100px;
+    top: 175px;
+    margin: 0 auto;
 }
