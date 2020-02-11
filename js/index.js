@@ -22,7 +22,7 @@
 
         function loop() 
         {
-            $("#mySpan").slideUp(2000, function(){
+            $("#mySpan").slideUp(2500, function(){
                 myArr.push(myArr.shift());
 
                 $("#mySpan").empty();
